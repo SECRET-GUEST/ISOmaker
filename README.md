@@ -24,6 +24,21 @@ Making image of a selected disk to save or export. Currently not tested.
 ---
 ---
 ---
+
+## 💎 Recommendations  
+
+In your quest for more tools to enhance your desktop productivity, these additional repositories are worth a look:
+
+- [ISO maker SCRIPT VERSION](https://github.com/SECRET-GUEST/tiny-scripts/tree/ALL/linux/ISO/isomaker) : Same as this script but in command line without GUI
+
+
+- [LNK reader](https://github.com/SECRET-GUEST/windows_link_reader): Allow dual boot Linux users to work with Windows shortcuts.
+- [File organizer ](https://github.com/SECRET-GUEST/file_organizer) : A versatile tool for sorting and organizing files efficiently, ideal for managing recovered data.
+
+
+Looking for more? Discover user-friendly, GUI-free script here: 
+- [Tiny Scripts](https://github.com/SECRET-GUEST/tiny-scripts)
+
 <!--
 ## 📋 Table of Contents
 
@@ -69,24 +84,6 @@ This repository is released under the [MIT License](LICENSE). Please see the `LI
 If you have any questions or need support, please feel free to open an issue, a new discussion, or join my twitter.
 
 
-## 💎 Recommendations  
-
-In your quest for more tools to enhance your desktop productivity, these additional repositories are worth a look:
-
-- [Barcraft](https://github.com/SECRET-GUEST/barcraft) : Create barcodes/QRCodes using an application free from malware, sourced directly from GitHub.
-
-- [LogInfo](https://github.com/SECRET-GUEST/logInfo) : Facilitate Python programming with effective error handling.
-
-
-- [LNK reader](https://github.com/SECRET-GUEST/windows_link_reader): Allow dual boot Linux users to work with Windows shortcuts.
-- [File organizer ](https://github.com/SECRET-GUEST/file_organizer) : A versatile tool for sorting and organizing files efficiently, ideal for managing recovered data.
-
-
-Looking for more? Discover user-friendly, GUI-free script here: 
-- [Tiny Scripts](https://github.com/SECRET-GUEST/tiny-scripts)
-
-If you're a 3D animator, consider:
-- [Animation](https://github.com/SECRET-GUEST/animation)
 
 
 ## 📥 Installation
